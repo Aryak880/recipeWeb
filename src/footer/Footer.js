@@ -14,25 +14,25 @@ const Footer = () => {
                 <div className="container">
                     <ul className="list-unstyled list-inline text-center">
                         
-                            <a className="btn-floating btn-fb mx-1" href="https://www.facebook.com/aryaksingh.chauhan.5/">
+                            <a className="btn-floating btn-fb mx-1" href="#">
                                 <FacebookIcon />
                             </a>
                             {`  `}  
-                            <a className="btn-floating btn-tw mx-1" href="https://www.instagram.com/aryaksinghchauhan/">
+                            <a className="btn-floating btn-tw mx-1" href="#">
                                 <InstagramIcon />
                             </a>
                             {`  `}
-                            <a className="btn-floating btn-gplus mx-1" href="https://twitter.com/ChauhanAryak">
+                            <a className="btn-floating btn-gplus mx-1" href="#">
                                 <TwitterIcon />
                             </a>
                             {`  `}
                         
-                            <a className="btn-floating btn-li mx-1" href="https://www.linkedin.com/in/aryak-singh-chauhan-663a74197/">
+                            <a className="btn-floating btn-li mx-1" href="#">
                             <LinkedInIcon />
                             </a>
                     </ul>
                 </div>
-                <div className="footer-copyright text-center py-3">© developed by: Aryak singh chauhan
+                <div className="footer-copyright text-center py-3">© developed by: Abhishek kumar
                     
                 </div>
             </footer>
